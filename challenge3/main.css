@@ -2,4 +2,10 @@
   background-color: #79797f;
   width: 150px;
   height: 150px;
+  transit-property: color;
+  transit-duration: 1s;
+  transit-timing-funstion:ease-in-out;
+}
+.box:hoover{
+           background-color:#84610;
 }
